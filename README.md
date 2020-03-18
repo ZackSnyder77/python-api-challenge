@@ -1,7 +1,6 @@
 # python-api-challenge
 
-#### NOTE: 
-#### The Gmaps visuals were not displaying appropriately within Github so I saved additional PNG files of the Maps in the:**"python-api-challenge/VacationPy/output_data"** Directory.
+#### NOTE: The Gmaps visuals were not displaying appropriately within Github so I saved additional PNG files of the Maps in the:**"python-api-challenge/VacationPy/output_data"** Directory.
 
 
 ### Background
