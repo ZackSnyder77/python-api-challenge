@@ -1,5 +1,7 @@
 # python-api-challenge
 
-## Using a Mixture of skills learned in class, I am pulling a random list of cities and via the Openweather API, I am mapping in their key weather details along with their Latitude and Longitude Coordinates.
+# Using a Mixture of skills learned in class, I am pulling a random list of cities and via the Openweather API, I am mapping in their key weather details along with their Latitude and Longitude Coordinates.
 
-Saving 
+
+
+Saving the data for these 500+ cities, I use the Google Maps API to generate a humidity heatmap of all the cities.  Additionally for a select few cities based on temperature, cloudiness and wind speed, I find the nearest hotel to them and plot their locations on the Humidity based Heatmap
